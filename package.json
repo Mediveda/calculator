@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Testing phase 2 { create a calculator based on html , css  and  javascript}",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mediveda/calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mediveda/calculator/issues"
+  },
+  "homepage": "https://github.com/Mediveda/calculator#readme",
+  "dependencies": {
+    "electron": "^26.2.2"
+  }
+}
